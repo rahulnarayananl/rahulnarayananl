@@ -1,6 +1,8 @@
 
-## [![Rahul Narayanan](images/1.jpg)](https:/rahulnarayananl.web.app)
-
+<div align="center">
+    <img src="images/1.jpg"</img>
+ </div>
+ 
 
 ### Hi there, I'm Rahul Narayanan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
