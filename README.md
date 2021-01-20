@@ -1,8 +1,8 @@
 
-## [![Rahul Narayanan](https://github.com/rahulnarayananl/rahulnarayananl/images/1.png)](https:/rahulnarayananl.web.app)
+## [![Rahul Narayanan](https://github.com/rahulnarayananl/rahulnarayananl/main/images/1.png)](https:/rahulnarayananl.web.app)
 
 
-### Hi there, I'm Rahul Narayanan[website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Rahul Narayanan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
   
@@ -71,10 +71,6 @@
 ---  
   
 
-  
-  
-
-<details>
 
   
 <a  href="https://github.com/rahulnarayananl">
@@ -90,10 +86,6 @@
 </a>
 <br/>
 
-
-  
-
-</details>
 
   
 
