@@ -1,5 +1,5 @@
 
-## [![Rahul Narayanan](https://github.com/rahulnarayananl/rahulnarayananl/main/images/1.jpg)](https:/rahulnarayananl.web.app)
+## [![Rahul Narayanan](images/1.jpg)](https:/rahulnarayananl.web.app)
 
 
 ### Hi there, I'm Rahul Narayanan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
