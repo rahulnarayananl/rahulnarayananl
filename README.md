@@ -4,11 +4,11 @@
  </div>
  
 
-### Hi there, I'm Rahul Narayanan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Rahul Narayanan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   
 
-## I'm a Student, Developer, and Singer!!
+### I'm a Student, Developer, and Singer!!
 
   
 
