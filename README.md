@@ -74,8 +74,6 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rahulnarayananl&show_icons=true&theme=synthwave&line_height=27"  alt="rahulnarayananl's github stats"/>
 
 </a>
-<br/>  
-
 <a  href="https://github.com/rahulnarayananl">
 
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnarayananl&theme=synthwave&hide_langs_below=1" />
