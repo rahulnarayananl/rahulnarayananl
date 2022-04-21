@@ -8,23 +8,12 @@
 
   
 
-### I'm a Student, Developer, and Singer!!
-
-  
+### I'm a Developer. 
 
 - 🌱 I’m currently learning flutter 🐦
+ 
 
-- 👯 I’m looking to collaborate with other content creators
-
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-- ⚡ Fun fact: I love to play games 🎮
-
-  
-
-### Connect with me:
-
-  
+### Connect with me: 
 
 [<img align="left" alt="codeSTACKr.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
