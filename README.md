@@ -1,77 +1,31 @@
-
 <div align="center">
-    <img src="images/1.jpg"</img>
- </div>
- 
+  <h1>Hi there, I'm Rahul Narayanan 👋</h1>
+  <h3>Full Stack Engineer | Tech Enthusiast</h3>
+</div>
 
-## Hi there, I'm Rahul Narayanan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 🚀 About Me
+I'm a Full Stack Engineer at Zoho Corporation with a strong focus on building scalable and high-performance systems.
 
-  
+## 💻 Technical Interests
 
-### I'm a Developer. 
+* 🔧 Operating Systems & System Programming
+* 🗄️ Database Engines
+* 🌐 Distributed Systems 
+* ⚡ High Performance Designs
 
-- 🌱 I’m currently learning flutter 🐦
- 
+## 💻 Tech Stack
+```sh
+Languages:    Java, Python, Go, TypeScript, JavaScript
+Databases:    MySQL, Redis, Apache Cassandra
+Frontend:     React.js, jQuery, D3.js
+Backend:      Spring Boot, Flask
+DevOps:       Docker, Grafana, Prometheus
+Tools:        Git, Mercurial
+```
 
-### Connect with me: 
-
-[<img align="left" alt="codeSTACKr.com" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-  
-
-<br />
-
-  
-
-### Languages and Tools:
-
-  
-
-<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img  align="left"  alt="HTML5"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img  align="left"  alt="CSS3"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img  align="left"  alt="Sass"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img  align="left"  alt="React"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-
-<img  align="left"  alt="SQL"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img  align="left"  alt="GitHub"  width="26px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img  align="left"  alt="Terminal"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img  align="left"  alt="flutter"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img  align="left"  alt="flutter"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img  align="left"  alt="flutter"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-
-
-<br/>
-<br/>  
-
-
-  
-<a  href="https://github.com/rahulnarayananl">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rahulnarayananl&show_icons=true&theme=synthwave&line_height=27"  alt="rahulnarayananl's github stats"/>
-
-</a>
-<a  href="https://github.com/rahulnarayananl">
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulnarayananl&theme=synthwave&hide_langs_below=1" />
-
-</a>
-<br/>
-
-
-  
+## 🌐 Connect with Me
+- 🌍 [Website](https://rahulnarayananl.web.app)
+- 💼 [LinkedIn](https://linkedin.com/in/rahulnarayananl)
 
 [website]:  https://rahulnarayananl.web.app
 
